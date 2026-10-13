@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/worklog-updates/main/WorkLog.apk","notes":"v2.2.6 ✅\n\n• التشخيص يعرض رمز HTTP من خدمة الخرائط (يفرّق بين عنوان غير موجود وخطأ شبكة/حظر)","versionCode":20261038,"versionName":"2.2.6"}
+{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/worklog-updates/main/WorkLog.apk","notes":"v2.2.7 ✅\n\n• بديل تلقائي: عند فشل Nominatim بتحديد عنوان، يُجرَّب Photon (خدمة مجانية مختلفة) قبل الاستسلام","versionCode":20261039,"versionName":"2.2.7"}
