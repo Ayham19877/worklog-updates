@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/worklog-updates/main/WorkLog.apk","notes":"v2.2.7 ✅\n\n• بديل تلقائي: عند فشل Nominatim بتحديد عنوان، يُجرَّب Photon (خدمة مجانية مختلفة) قبل الاستسلام","versionCode":20261039,"versionName":"2.2.7"}
+{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/worklog-updates/main/WorkLog.apk","notes":"v2.2.8 ✅\n\n• إزالة المقاطع المكررة المتتالية من العناوين (\"1500 Mimosa Dr, 1500 Mimosa Dr\" → \"1500 Mimosa Dr\") — كانت تُفشل تحديد العنوان","versionCode":20261040,"versionName":"2.2.8"}
