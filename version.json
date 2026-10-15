@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/worklog-updates/main/WorkLog.apk","notes":"v2.2.12 ✅\n\n• زر 🔧 ÷100 لتصحيح المسافة بضغطة عند غلطة OCR بالنقطة العشرية (280 ← 2.80)","versionCode":20261044,"versionName":"2.2.12"}
+{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/worklog-updates/main/WorkLog_v2.2.13.apk","notes":"v2.2.13 ✅\n\n• إصلاح شامل لتحليل الصور عبر Gemini: ترويسة x-goog-api-key للمفاتيح الجديدة، اكتشاف ديناميكي للموديلات، إعادة محاولة عند 503، تجاوز DNS عبر DoH، وميزانية توكن أكبر","versionCode":20261045,"versionName":"2.2.13"}
